@@ -1,0 +1,44 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: white;
+}
+.container-fluid {
+    padding: 3% 15%;
+    overflow: hidden;
+}
+
+/* Navigation Bar */
+.navbar {
+    padding-bottom: 4.5em;
+}
+.navbar, .navbar-brand {
+    font-size: 2rem;
+}
+.navbar-brand {
+    font-weight: 600;
+}
+.nav-item {
+    padding-left: 30px;
+}
+
+.container-fluid h1{
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding-bottom: 0.5em;
+}
+.row img {
+    /* margin-bottom: -0px; */
+    margin-left: 20%;
+    /* margin-bottom: 20%; */
+    overflow: hidden;
+    width: 60%;
+    transform: rotate(30deg);
+}
+.row button {
+    margin-right: 5%;
+}
