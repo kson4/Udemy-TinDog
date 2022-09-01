@@ -123,6 +123,32 @@ h3 {
     margin-bottom: 5%;
 }
 
+/* CTA */
+#cta {
+    background-color: #ff4c68;
+    padding: 5%;
+}
+#cta .container {
+    text-align: center;
+    color: white;
+}
+#cta button {
+    margin-left: 2.5%;
+}
+#cta h3 {
+    font-size: 3rem;
+    padding-bottom: 5%;
+}
+
+/* Footer */
+#footer {
+    text-align: center;
+    margin: 5%;
+}
+#footer i {
+    padding: 0 2% 2% 2%;
+}
+
 @media (max-width: 1320px) {
     .navbar {
         padding-bottom: 2.5em;
