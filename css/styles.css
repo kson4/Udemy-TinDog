@@ -42,3 +42,26 @@ body {
 .row button {
     margin-right: 5%;
 }
+
+/* Features */
+#features {
+    margin: 7.5% 5% 5% 5%;
+}
+#features i {
+    margin-bottom: 5%;
+    color: #ef8172
+}
+#features i:hover {
+    color: #ff4c68;
+}
+#features h3 {
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+#features p {
+    color: #8f8f8f
+}
+#features .row > div {
+    margin-bottom: 5%;
+}
