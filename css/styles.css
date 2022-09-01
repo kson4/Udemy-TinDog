@@ -79,7 +79,7 @@ h3 {
     background-color: #ef8172;
     color: #fff;
     text-align: center;
-    padding-bottom: 5%;
+    padding-bottom: 0%;
 }
 .testimonial-image {
     width: 10%;
@@ -102,4 +102,16 @@ h3 {
 #press img {
     width: 12.5%;
     margin: 2.5% 2.5%;
+}
+
+/* Pricing */
+#pricing {
+    text-align: center;
+    margin: 5% 15%;
+}
+#pricing .card {
+    height: 375px;
+}
+#pricing .title {
+    margin-bottom: 5%;
 }
